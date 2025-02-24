@@ -35,7 +35,7 @@
             <p class="text-sm text-gray-600 mt-1">Let us know what you think of our website.</p>
         </div>
 
-        <button type="submit" class="bg-blue-500 text-white px-4 py-2 rounded">
+        <button type="submit" class="bg-black text-white px-4 py-2 rounded">
             Submit
         </button>
     </form>
